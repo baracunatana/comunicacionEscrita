@@ -109,7 +109,6 @@ Uno de los factores más importantes para evitar las frases excesivamente largas
 #+reveal_html: </details>
 #+end_colde
 
-
 * Verbos consecutivos
 :PROPERTIES:
 :CUSTOM_ID: verbos-seguidos
@@ -124,3 +123,4 @@ Evite, en la medida de lo posible, la utilización de dos verbos seguidos; sobre
 | Debemos /buscar alcanzar/ el éxito                    | Debemos /propender/ por el éxito                |
 | El /poder saber/ las preferencias del cliente [...]   | El /conocer/ las preferencias del cliente [...] |
 | Esto nos permitirá /lograr alcanzar/ la meta de [...] | Esto nos permitirá /alcanzar/ la meta de [...]  |
+| Quiero /buscar salir/ de este bache                   | Quiero /salir/ de este bache                    |
