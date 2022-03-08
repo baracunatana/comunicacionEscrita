@@ -108,3 +108,19 @@ Uno de los factores más importantes para evitar las frases excesivamente largas
 + Sin embargo
 #+reveal_html: </details>
 #+end_colde
+
+
+* Verbos consecutivos
+:PROPERTIES:
+:CUSTOM_ID: verbos-seguidos
+:END:
+#+attr_html: :align left
+#+begin_div
+Evite, en la medida de lo posible, la utilización de dos verbos seguidos; sobretodo si están en infinitivo. En la siguiente tabla puede ver algunos casos en donde estos verbos consecutivos son incómodos y una forma de resolverlo.
+#+end_div
+
+| Evite                                                 | Prefiera                                        |
+|-------------------------------------------------------+-------------------------------------------------|
+| Debemos /buscar alcanzar/ el éxito                    | Debemos /propender/ por el éxito                |
+| El /poder saber/ las preferencias del cliente [...]   | El /conocer/ las preferencias del cliente [...] |
+| Esto nos permitirá /lograr alcanzar/ la meta de [...] | Esto nos permitirá /alcanzar/ la meta de [...]  |
