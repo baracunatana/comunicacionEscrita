@@ -60,7 +60,7 @@ Hoy en día es muy importante que las empresas cuenten con tecnologías de infor
 ** Conectores
 #+attr_html: :align left
 #+attr_html: :style font-size: 80%;
-Uno de los factores más importantes para evitar las frases excesivamente largas es el correcto uso de conectores. Estos conectores son los que permiten enlazar las frases de un párrafo y preservar el hilo conductor del mismo. Estudie la siguiente tabla de conectores y vuelva al ejercicio anterior para ver si, usando estos conectores, logra llegar a un mejor resultado:
+Uno de los factores más importantes para evitar las frases excesivamente largas es el correcto uso de conectores. Estos conectores son los que permiten enlazar las frases de un párrafo y preservar el hilo conductor del mismo. Estudie la siguiente lista de conectores y vuelva al ejercicio anterior para ver si, usando estos conectores, logra llegar a un mejor resultado:
 
 #+attr_html: :align left
 #+attr_html: :style font-size: 80%;
