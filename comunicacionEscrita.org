@@ -1,0 +1,107 @@
+#+title: Comentarios de escritura
+#+author: Juan Erasmo Gómez-Morantes, PhD
+
+# Configuración básica
+#+reveal_root: https://cdn.jsdelivr.net/gh/hakimel/reveal.js@4.1.2/
+#+reveal_version: 4
+#+reveal_hlevel: 1
+#+language: es
+#+reveal_theme: solarized
+#+options: toc:nil num:nil reveal_width:1600 reveal_height:900 reveal_margin:0.1 reveal_minScale:0.2 reveal_maxScale:2.5 reveal_transition:'cube' reveal_history:true date:nil
+#+reveal_extra_css: https://cdn.jsdelivr.net/gh/baracunatana/re-reveal-estilos/j-oer-re-reveal.css
+
+* Introducción
+Esta presentación contiene comentarios y recomendaciones generales para mejorar la expresión escrita en estudiantes de pregrado, posgrado, y profesionales de todas las áreas del conocimiento. Son de aplicación general y no se limitan a disciplinas particulares.
+
+Revise con detenimiento las recomendaciones consignadas en esta presentación y, en la medida de lo posible, póngalas en práctica en sus siguientes textos.
+
+* Evite frases extremadamente largas
+#+attr_html: :align left
+#+begin_div
+Las frases demasiado largas dificultan la lectura de textos técnicos o profesionales. En general, las frases demasiado largas (de más de 25 o 30 palabras) ocurren cuando se tratan de expresar múltiples ideas en una sola frase. También ocurren cuando se hace mal uso de signos de puntación, en espacial la coma. 
+
+Tenga en cuenta que una frase va de punto a punto (final o seguido), y que las comas no marcan finalización de frase. 
+
+Presione la tecla hacia abajo para ver un par de ejemplos que ilustran esta situación.
+#+end_div
+
+** Ejemplo de frases largas
+Compare los siguientes textos y evalúe cuál le parece más claro y fácil de leer
+
+#+attr_html: :style font-size: 70%;
+#+attr_html: :align left
+#+begin_coliz
+Hoy en día es muy importante que las empresas cuenten con tecnologías de información robustas que les permitan capturar y procesar grandes cantidades de datos ya que el entorno competitivo de las industrias modernas está compuesto por empresas cada vez más ágiles que toman decisiones complejas como parte de su día a día, y en este contexto el que tenga la mejor información para tomar las decisiones estará en mejor posición para competir debido a que el entorno organizacional de hoy se mueve cada vez más rápido y es más difícil de entender y manejar.
+#+end_coliz
+
+#+attr_html: :style font-size: 70%;
+#+attr_html: :align left
+#+begin_colde
+Hoy en día es muy importe que las empresas cuenten con tecnologías de información robustas que les permitan capturar y procesar grandes cantidades de datos. Esto se debe a que el entorno competitivo de las industrias está compuesto por empresas cada vez más ágiles que toman decisiones complejas como parte de su día a día. Como consecuencia, es natural que la empresa que tenga la mejor información a la hora de tomar estas decisiones estará en mejor posición para competir. Esto toma aún más importancia si tomamos en cuenta que el entorno organizacional de hoy se mueve cada vez más rápido y es más difícil de entender y manejar.
+#+end_colde
+** Ejercicio
+#+attr_html: :align left
+Lea el siguiente texto y, en la parte derecha, trate de editarlo para mejorar la lecturabilidad. Para esto, pártalo en frases más cortas y conéctelas usando puntos seguidos y conectores. Luego de esto, presiona la tecla hacia abajo para ver una propuesta en este sentido.
+
+#+attr_html: :style font-size: 70%;
+#+attr_html: :align left
+#+begin_coliz
+Hoy en día es muy importante que las empresas cuenten con tecnologías de información robustas que les permitan capturar y procesar grandes cantidades de datos ya que el entorno competitivo de las industrias modernas está compuesto por empresas cada vez más ágiles que toman decisiones complejas como parte de su día a día, y en este contexto el que tenga la mejor información para tomar las decisiones estará en mejor posición para competir debido a que el entorno organizacional de hoy se mueve cada vez más rápido y es más difícil de entender y manejar.
+#+end_coliz
+
+#+attr_html: :align left
+#+begin_colde
+#+REVEAL_HTML: <textarea style="width:100%;" rows="30"></textarea>
+#+end_colde
+
+** Conectores
+#+attr_html: :align left
+#+attr_html: :style font-size: 80%;
+Uno de los factores más importantes para evitar las frases excesivamente largas es el correcto uso de conectores. Estos conectores son los que permiten enlazar las frases de un párrafo y preservar el hilo conductor del mismo. Estudie la siguiente tabla de conectores y vuelva al ejercicio anterior para ver si, usando estos conectores, logra llegar a un mejor resultado:
+
+#+attr_html: :align left
+#+attr_html: :style font-size: 80%;
+#+begin_coliz
+#+reveal_html: <details>
+#+reveal_html: <summary>Adición</summary>
++ Además
++ También
++ En adición
++ En este sentido
+#+reveal_html: </details>
+#+reveal_html: <details>
+#+reveal_html: <summary>Aclaración</summary>
++ Es decir
++ En otras palabras
++ En este punto es importante aclarar que
++ Esto se explica
+#+reveal_html: </details>
+#+reveal_html: <details>
+#+reveal_html: <summary>Evaluación</summary>
++ En mi opinión
++ Esto podría indicar
++ Una lectura de esto es
+#+reveal_html: </details>
+#+end_coliz
+#+attr_html: :align left
+#+attr_html: :style font-size: 80%;
+#+begin_colde
+#+reveal_html: <details>
+#+reveal_html: <summary>Conclusión</summary>
++ En conclusión
++ Finalmente
++ Para cerrar
+#+reveal_html: </details>
+#+reveal_html: <details>
+#+reveal_html: <summary>Consecuencia</summary>
++ En consecuencia
++ Como resultado
++ Esto lleva a
+#+reveal_html: </details>
+#+reveal_html: <details>
+#+reveal_html: <summary>Contraste</summary>
++ En comparación
++ En contraste
++ Sin embargo
+#+reveal_html: </details>
+#+end_colde
