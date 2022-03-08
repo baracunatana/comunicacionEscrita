@@ -16,6 +16,9 @@ Esta presentación contiene comentarios y recomendaciones generales para mejorar
 Revise con detenimiento las recomendaciones consignadas en esta presentación y, en la medida de lo posible, póngalas en práctica en sus siguientes textos.
 
 * Evite frases extremadamente largas
+:PROPERTIES:
+:CUSTOM_ID: fralargas
+:END:
 #+attr_html: :align left
 #+begin_div
 Las frases demasiado largas dificultan la lectura de textos técnicos o profesionales. En general, las frases demasiado largas (de más de 25 o 30 palabras) ocurren cuando se tratan de expresar múltiples ideas en una sola frase. También ocurren cuando se hace mal uso de signos de puntación, en espacial la coma. 
