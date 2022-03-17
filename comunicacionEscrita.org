@@ -118,9 +118,12 @@ Uno de los factores más importantes para evitar las frases excesivamente largas
 Evite, en la medida de lo posible, la utilización de dos verbos seguidos; sobretodo si están en infinitivo. En la siguiente tabla puede ver algunos casos en donde estos verbos consecutivos son incómodos y una forma de resolverlo.
 #+end_div
 
-| Evite                                                 | Prefiera                                        |
-|-------------------------------------------------------+-------------------------------------------------|
-| Debemos /buscar alcanzar/ el éxito                    | Debemos /propender/ por el éxito                |
-| El /poder saber/ las preferencias del cliente [...]   | El /conocer/ las preferencias del cliente [...] |
-| Esto nos permitirá /lograr alcanzar/ la meta de [...] | Esto nos permitirá /alcanzar/ la meta de [...]  |
-| Quiero /buscar salir/ de este bache                   | Quiero /salir/ de este bache                    |
+#+attr_html: :style font-size: 80%;
+| Evite                                                   | Prefiera                                        |
+|---------------------------------------------------------+-------------------------------------------------|
+| Debemos /buscar alcanzar/ el éxito                      | Debemos /propender/ por el éxito                |
+| El /poder saber/ las preferencias del cliente [...]     | El /conocer/ las preferencias del cliente [...] |
+| Esto nos permitirá /lograr alcanzar/ la meta de [...]   | Esto nos permitirá /alcanzar/ la meta de [...]  |
+| Quiero /buscar salir/ de este bache                     | Quiero /salir/ de este bache                    |
+| La logística se encarga de hacer llegar productos [...] | La logística se encarga de llevar productos     |
+
