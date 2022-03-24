@@ -10,6 +10,9 @@
 #+options: toc:nil num:nil reveal_width:1600 reveal_height:900 reveal_margin:0.1 reveal_minScale:0.2 reveal_maxScale:2.5 reveal_transition:'cube' reveal_history:true date:nil
 #+reveal_extra_css: https://cdn.jsdelivr.net/gh/baracunatana/re-reveal-estilos/j-oer-re-reveal.css
 
+#+bibliography: ~/biblioteca/main.bib
+#+cite_export: csl
+
 * Introducción
 Esta presentación contiene comentarios y recomendaciones generales para mejorar la expresión escrita en estudiantes de pregrado, posgrado, y profesionales de todas las áreas del conocimiento. Son de aplicación general y no se limitan a disciplinas particulares.
 
@@ -25,7 +28,7 @@ Las frases demasiado largas dificultan la lectura de textos técnicos o profesio
 
 Tenga en cuenta que una frase va de punto a punto (final o seguido), y que las comas no marcan finalización de frase. 
 
-Presione la tecla hacia abajo para ver un par de ejemplos que ilustran esta situación.
+Presione @@html:<img align="top" src="./img/abajo.png" alt="abajo.png" style="width:22px;height:22px;"/>@@ para ver un par de ejemplos que ilustran esta situación.
 #+end_div
 
 ** Ejemplo de frases largas
@@ -44,7 +47,7 @@ Hoy en día es muy importe que las empresas cuenten con tecnologías de informac
 #+end_colde
 ** Ejercicio
 #+attr_html: :align left
-Lea el siguiente texto y, en la parte derecha, trate de editarlo para mejorar la lecturabilidad. Para esto, pártalo en frases más cortas y conéctelas usando puntos seguidos y conectores. Luego de esto, presiona la tecla hacia abajo para ver una propuesta en este sentido.
+Lea el siguiente texto y, en la parte derecha, trate de editarlo para mejorar la lecturabilidad. Para esto, pártalo en frases más cortas y conéctelas usando puntos seguidos y conectores. Luego de esto, presiona @@html:<img align="top" src="./img/abajo.png" alt="abajo.png" style="width:22px;height:22px;"/>@@ para ver una propuesta en este sentido.
 
 #+attr_html: :style font-size: 70%;
 #+attr_html: :align left
@@ -127,3 +130,34 @@ Evite, en la medida de lo posible, la utilización de dos verbos seguidos; sobre
 | Quiero /buscar salir/ de este bache                     | Quiero /salir/ de este bache                    |
 | La logística se encarga de hacer llegar productos [...] | La logística se encarga de llevar productos     |
 
+* Coma entre sujeto y predicado
+:PROPERTIES:
+:CUSTOM_ID: sujeto-predicado
+:END:
+#+attr_html: :align left
+No se debe escribir coma entre sujeto y predicado incluso cuando estos son extensos.
+
+#+attr_html: :style font-size: 80%;
+| Evite                                                                        | Prefiera                                                                    |
+|------------------------------------------------------------------------------+-----------------------------------------------------------------------------|
+| Las entregas que se hagan por fuera del límite de tiempo, no serán aceptadas | Las entregas que se hagan por fuera del límite de tiempo no serán aceptadas |
+| La que está arriba, es la ganadora                                           | La que está arriba es la ganadora                                           |
+| El grupo empresarial San Bonifacio, lo saluda                                | El grupo empresarial San Bonifacio lo saluda                                |
+
+#+attr_html: :align left
+Esta regla tiene unas excepciones que puede consultar presionando @@html:<img align="top" src="./img/abajo.png" alt="abajo.png" style="width:22px;height:22px;"/>@@.
+** Excepciones
+Según el apartado 3.4.2.2.2.1 de [cite:@RealAcademiaEspanola2016], hay 3 excepciones para la regla anterior:
+
+#+attr_html: :style font-size: 80%;
+| Situación                                                                                                      | Ejemplo                                                                                              |
+|----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------|
+| Cuando el sujeto es una enumeración que se cierra con etc.                                                     | El perro, el gato, el pez, etc., son ejemplos de mascotas                                            |
+| Cuando se incluye un inciso o aclaración inmediatamente después del sujeto                                     | La empresa, por exceso de precaución, dejó pasar una gran oportunidad                                |
+| Cuando al mismo sujeto le corresponden dos predicados unidos por conjunciones distributivas (o bien... o bien) | Los que pretendieron competir con ellos, o bien perdieron, o bien terminaron cambiando de estrategia |
+
+* Referencias
+:PROPERTIES:
+:CUSTOM_ID: bibliography
+:END:
+#+print_bibliography:
