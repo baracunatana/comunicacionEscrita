@@ -156,6 +156,30 @@ Según el apartado 3.4.2.2.2.1 de [cite:@RealAcademiaEspanola2016], hay 3 excepc
 | Cuando se incluye un inciso o aclaración inmediatamente después del sujeto                                     | La empresa, por exceso de precaución, dejó pasar una gran oportunidad                                |
 | Cuando al mismo sujeto le corresponden dos predicados unidos por conjunciones distributivas (o bien... o bien) | Los que pretendieron competir con ellos, o bien perdieron, o bien terminaron cambiando de estrategia |
 
+* Números en cifras o letras
+:PROPERTIES:
+:CUSTOM_ID: numeros
+:END:
+#+attr_html: :align left :style font-size: 60%;
+Las reglas para escribir expresiones numéricas (EN) en cifras o letras son muchas. Sin embargo, el siguiente conjunto de reglas cubre la mayoría de casos. Consulte [cite:@RealAcademiaEspanola2005] para casos no incluidos en esta tabla.
+
+#+attr_html: :style font-size: 60%;
+| Regla                                                                                                                                       | Ejemplos                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------|
+| Las EN que se pueden escribir en una sola palabra se escriben en letras                                                                     | La empresa tiene presencia en doce ciudades y más de doscientos empleados |
+| Las EN redondas en que pueden escribirse con dos palabras se escriben en letras                                                             | Generamos ventas superiores a quinientos millones                         |
+| Las EN que se pueden escribir con dos letras, separadas por "y", se escriben en letras                                                      | Tengo treinta y siete años                                                |
+| Las EN que requieren 4 o más palabras se escriben en cifras                                                                                 | Hemos recibido 145 cartas de interés                                      |
+| Las EN que hacen referenicas a unidades de medida que van a acompañadas de abreviación o símbolos de unidad de medida se escriben en cifras | Estamos a 4 km de distancia                                               |
+|                                                                                                                                             | Ya he leído 50 pags. del documento                                        |
+| Las EN que incluyan decimales se escriben en cifras                                                                                         | Necesitamos 1.5 toneladas de cartón                                       |
+| Los porcentajes se escriben en cifras                                                                                                       | Tuvimos un crecimiento de 3%                                              |
+| Las EN usadas para referirse a un elemento dentro de una serie se escriben en cifras                                                        | Ver Figura 7 en la sección 3                                              |
+| Las fechas y horas se escriben preferiblemente en números                                                                                   | 4 de marzo de 2004 a las 11 am.                                           |
+
+#+attr_html: :align left :style font-size: 60%;
+En adición a lo anterior, tenga en cuenta que una frase nunca debe empezar por un número escrito en cifras.
+
 * Referencias
 :PROPERTIES:
 :CUSTOM_ID: bibliography
