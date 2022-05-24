@@ -180,6 +180,24 @@ Las reglas para escribir expresiones numéricas (EN) en cifras o letras son much
 #+attr_html: :align left :style font-size: 60%;
 En adición a lo anterior, tenga en cuenta que una frase nunca debe empezar por un número escrito en cifras.
 
+* Sí y si
+:PROPERTIES:
+:CUSTOM_ID: si
+:END:
+#+attr_html: :align left 
+Si bien no tienen diferencia en pronunciación, las palabras *sí* y *si* tienen significados distintos.
+
+| Palabra | Uso                | Ejemplo                           |
+|---------+--------------------+-----------------------------------|
+| Sí      | Afirmación         | Sí tengo que estudiar             |
+|         | Pronombre personal | El enfermo ya volvió en sí        |
+|         | Sustantivo         | Ya me dieron el sí                |
+| Si      | Condicional        | Si no salgo ya, no llego a tiempo |
+|         | Nota musical       | Do re mi fa so la si              |
+
+#+attr_html: :align left
+Si bien no cubre el 100% de los casos, la forma más fácil de recordar estas reglas es traducir la frase al ingles, y si el "si" se traduce como /if/ o algún equivalente, entonces no lleva tilde. En caso contrario, lleva tilde.
+
 * Referencias
 :PROPERTIES:
 :CUSTOM_ID: bibliography
